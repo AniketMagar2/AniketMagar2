@@ -14,7 +14,7 @@ I am a **Data Engineer and Snowflake Developer** dedicated to building scalable 
 - 🛠️ **Current Focus:** Optimizing Snowflake architectures and building robust ETL/ELT pipelines.
 - 👯 **Collaboration:** Looking to contribute to Open Source Data Engineering projects and Cloud Migration initiatives.
 - 📝 **Writing:** I document my journey and technical deep-dives on [Medium](https://medium.com/@a.g.magar29).
-- 📫 **Reach Me:** **aniketmagar296@gmail.com**
+- 📫 **Reach Me:** **magaraniket479@gmail.com**
 
 ---
 
