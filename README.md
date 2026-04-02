@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Aniket Magar</h1>
-<h3 align="center">Snowflake Developer | Data Engineer | Data Scientist</h3>
+<h3 align="center">Snowflake Developer | Data Engineer | Data Scientist|Data Analyst|</h3>
 
 <p align="center">
   <a href="https://linkedin.com/in/aniket-magar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="aniket magar" height="30" width="40" /></a>
